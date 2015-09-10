@@ -1,5 +1,5 @@
 # Site settings
-title: London - Paris
+title: London - París
 description: > # this means to ignore newlines until "baseurl:"
   Þessi síða er tileinkuð mikilli svaðilför sem við vinir lögðum í sumarið 2014, hjólatúr frá Lundunum til Parísar.
 baseurl: "/london-paris" # the subpath of your site, e.g. /blog/
